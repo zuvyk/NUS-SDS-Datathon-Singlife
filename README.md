@@ -62,9 +62,9 @@
 
 ### Target Column
 
-- f_purchase_lh: flag indicating whether a customer will purchase life or health insurance products within the next three months.
+- f_purchase_lh: Flag indicating whether a customer will purchase life or health insurance products within the next three months.
 
-# Submission Instructions
+## Submission Instructions
 
 1. Rename the submission notebook as "NUS_DATATHON_SINGLIFE_\<TEAM NAME\>.ipynb". For example, if your team name is "NUS 1", your submission notebook should be named as "NUS_DATATHON_SINGLIFE_NUS 1.ipynb". \
 The notebook already contains a template function, named `testing_hidden_data`, to take in the test data and output the predictions. You are to fill in the function with your model and any preprocessing function that you may have. \
