@@ -74,8 +74,7 @@ sudo pacman -S gnupg
    ```bash
    gpg --decrypt catA_train.csv.gpg
    ## OR
-   gpg --decrypt catB_train.parquet.gpg
-> outputfile
+   gpg --decrypt catB_train.parquet.gpg 
    ```
    Enter the passphrase sent in your email. 
 5. Store the data in the `data` folder in your local copy of the template repo.
